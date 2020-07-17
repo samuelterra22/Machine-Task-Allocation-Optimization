@@ -28,7 +28,7 @@ Um conjunto de _n_ tarefas, cada uma com tempo de processamento _p[i]_ não nega
 
 Determinar:
 
-- _(i)_ uma distribuição das tarefas às máquinas, tal que cada tarefa esteha em exatamente
+- _(i)_ uma distribuição das tarefas às máquinas, tal que cada tarefa esteja em exatamente
 uma máquina;
 
 - _(ii)_ tempos de início _s[i]_, _i=1, ..., n_, de cada tarefa, tal que tarefas na mesma
